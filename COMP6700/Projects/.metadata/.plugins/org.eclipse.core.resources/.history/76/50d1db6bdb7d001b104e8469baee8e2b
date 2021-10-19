@@ -1,0 +1,4 @@
+def _info(parms):
+    USERID = 'clm0081'  # Replace with your id
+    result = {'user': USERID}
+    return result

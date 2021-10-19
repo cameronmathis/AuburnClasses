@@ -1,0 +1,37 @@
+'''
+
+    Created on Mar 5, 2021
+
+    @author: Cameron Mathis
+    
+    This file contains all the code used to test the creation of a starting grid.
+
+'''
+
+import unittest
+import Tiles2048.create as create
+
+class CreateTest(unittest.TestCase):
+
+    # 100 create
+    #    Desired level of confidence:    boundary value analysis
+    #    Input-output Analysis
+    #        inputs:    python dictionary containing the op value and size of the grid
+    #        outputs:    python dictionary containing grid, score, integrity, and status
+    #    Happy path analysis:
+    #        output:
+    #
+    # Happy path
+    def test_create_HappyPathTest010(self):
+        userParms = {'op': 'create', 'size': '4'}
+        actualResult = create._create(userParms)
+        self.assertIsNotNone(actualResult)
+        
+    
+    # Dev path
+    def test_integrate_610_ShouldCalculateNominalTNominalNNominal_FWithFixedNumberOfSlices(self):
+        t = 16
+        n = 5.0
+        expectedResult = 1.406545395
+        actualResult = create(t, n, _f)
+        self.assertEquals(expectedResult, actualResult, 6)

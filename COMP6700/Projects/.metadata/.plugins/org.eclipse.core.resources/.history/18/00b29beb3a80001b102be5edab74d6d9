@@ -1,0 +1,40 @@
+import random
+
+'''
+
+    Created on Mar 5, 2021
+
+    @author: Cameron Mathis
+    
+    This file contains all the code used to create a starting grid.
+
+'''
+
+def _create(userParms):
+    grid = _generateGrid()
+    score = _calculateScore()
+    result = {'grid': grid, 'score': _calculateScore(), 'integrity': _calculateIntegrity(), 'status': _calculateStatus()}
+    return result
+
+def _generateGrid():
+    index1 = random.randint(0, 15)
+    index2 = random.randint(0, 15)
+    while (index1 == index2):
+        index1 = random.randint(0, 15)
+        index2 = random.randint(0, 15)
+    gridString = ''
+    for i in range(16):
+        if (i == index1) or (i == index2):
+            gridString += '2'
+        else:
+            gridString += '0'
+    return gridString
+
+def _calculateScore():
+    return '0'
+
+def _calculateIntegrity():
+    return '0'
+
+def _calculateStatus():
+    return 'ok'

@@ -1,0 +1,8 @@
+MODULES_MANAGER_V3
+microservice|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment3\microservice.py
+tCurve.__init__|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment3\tCurve\__init__.py
+tCurve.prob|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment3\tCurve\prob.py
+tCurve.sandbox.__init__|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment3\tCurve\sandbox\__init__.py
+tCurve.test.__init__|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment3\tCurve\test\__init__.py
+tCurve.test.microserviceTest|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment3\tCurve\test\microserviceTest.py
+tCurve.test.probTest|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment3\tCurve\test\probTest.py

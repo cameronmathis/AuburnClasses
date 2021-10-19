@@ -1,0 +1,34 @@
+Results
+---------------
+
+##################
+
+Please enter a word: racecar
+"The string is a palindrome."           
+Instructions Executed (IC): 65
+Cycles Spent in Execution (C): 343
+Speed-up ([8*IC]/C): 1.52 
+
+##################
+
+Please enter a word: nascar
+"The string is not a palindrome."       
+Instructions Executed (IC): 43
+Cycles Spent in Execution (C): 225
+Speed-up ([8*IC]/C): 1.53 
+
+##################
+
+Please enter a word: straw warts
+"The string is a palindrome."           
+Instructions Executed (IC): 95
+Cycles Spent in Execution (C): 503
+Speed-up ([8*IC]/C): 1.51 
+
+##################
+
+Please enter a word: war eagle
+"The string is not a palindrome."       
+Instructions Executed (IC): 55
+Cycles Spent in Execution (C): 288
+Speed-up ([8*IC]/C): 1.53

@@ -1,0 +1,12 @@
+'''
+
+    Created on Mar 5, 2021
+
+    @author: Cameron Mathis
+
+'''
+
+def _info(parms):
+    USERID = 'clm0081'  # Replace with your id
+    result = {'user': USERID}
+    return result

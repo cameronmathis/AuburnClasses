@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.TitledPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Text?>
+
+<TitledPane fx:id="accountLoginPopUp" alignment="CENTER" animated="false" collapsible="false" maxHeight="-Infinity"
+            maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="245.0" prefWidth="345.0"
+            text="Login" textAlignment="CENTER" xmlns="http://javafx.com/javafx/11.0.1"
+            xmlns:fx="http://javafx.com/fxml/1">
+    <content>
+        <GridPane>
+            <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" prefWidth="100.0"/>
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="200.0"/>
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0"/>
+            </columnConstraints>
+            <rowConstraints>
+                <RowConstraints maxHeight="-Infinity" minHeight="-Infinity" prefHeight="30.0" vgrow="SOMETIMES"/>
+                <RowConstraints maxHeight="-Infinity" minHeight="-Infinity" prefHeight="30.0" vgrow="SOMETIMES"/>
+                <RowConstraints maxHeight="-Infinity" minHeight="-Infinity" prefHeight="30.0" vgrow="SOMETIMES"/>
+                <RowConstraints maxHeight="-Infinity" minHeight="-Infinity" prefHeight="30.0" vgrow="SOMETIMES"/>
+                <RowConstraints maxHeight="-Infinity" minHeight="-Infinity" prefHeight="30.0" vgrow="SOMETIMES"/>
+                <RowConstraints maxHeight="-Infinity" minHeight="-Infinity" prefHeight="15.0" vgrow="SOMETIMES"/>
+                <RowConstraints maxHeight="-Infinity" minHeight="-Infinity" prefHeight="30.0"/>
+            </rowConstraints>
+            <children>
+                <Button fx:id="enter" mnemonicParsing="false" style="-fx-focus-traversable: false;" text="Enter"
+                        GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="6"/>
+                <Text opacity="0.55" strokeType="OUTSIDE" strokeWidth="0.0" text="Please enter following information"
+                      textAlignment="CENTER" wrappingWidth="197.63671875" GridPane.columnIndex="1"
+                      GridPane.halignment="CENTER" GridPane.valignment="CENTER"/>
+                <Text opacity="0.55" strokeType="OUTSIDE" strokeWidth="0.0" text="Username:" textAlignment="CENTER"
+                      wrappingWidth="59.63671875" GridPane.columnIndex="1" GridPane.halignment="LEFT"
+                      GridPane.rowIndex="1" GridPane.valignment="BOTTOM"/>
+                <TextField fx:id="username" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity"
+                           minWidth="-Infinity" prefHeight="25.0" prefWidth="200.0" GridPane.columnIndex="1"
+                           GridPane.rowIndex="2"/>
+                <Text opacity="0.55" strokeType="OUTSIDE" strokeWidth="0.0" text="Password:" textAlignment="CENTER"
+                      wrappingWidth="59.63671875" GridPane.columnIndex="1" GridPane.rowIndex="3"/>
+                <TextField fx:id="password" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity"
+                           minWidth="-Infinity" prefHeight="25.0" prefWidth="200.0" GridPane.columnIndex="1"
+                           GridPane.rowIndex="4"/>
+            </children>
+        </GridPane>
+    </content>
+</TitledPane>

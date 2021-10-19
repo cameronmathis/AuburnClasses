@@ -1,0 +1,46 @@
+import random
+import hashlib
+
+'''
+
+    Created on Mar 5, 2021
+
+    @author: Cameron Mathis
+    
+    This file contains all the code used to create a starting grid.
+
+'''
+
+def _create(userParms):
+    grid = _generateGrid()
+    score = _calculateScore()
+    integrity = _calculateIntegrity(grid, score)
+    status = _calculateStatus()
+    result = {'grid': grid, 'score': score, 'integrity': integrity, 'status': status}
+    return result
+
+def _generateGrid():
+    index1 = random.randint(0, 15)
+    index2 = random.randint(0, 15)
+    while (index1 == index2):
+        index1 = random.randint(0, 15)
+        index2 = random.randint(0, 15)
+    gridString = ''
+    for i in range(16):
+        if (i == index1) or (i == index2):
+            gridString += '2'
+        else:
+            gridString += '0'
+    return gridString
+
+def _calculateScore():
+    return '0'
+
+def _calculateIntegrity(grid, score):
+    stringToHash = grid + '.' + score
+    hashObject = hashlib.sha256(stringToHash)
+    hashResult = hashObject.hexdigest()
+    return hashResult
+
+def _calculateStatus():
+    return 'ok'

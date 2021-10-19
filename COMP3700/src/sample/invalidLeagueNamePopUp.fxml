@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<TitledPane animated="false" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="196.0" prefWidth="390.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1">
+   <content>
+      <GridPane>
+        <columnConstraints>
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="118.00000762939453" minWidth="10.0" prefWidth="64.99999618530273" />
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="261.59999999999997" minWidth="10.0" prefWidth="247.8000038146973" />
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="102.0" minWidth="10.0" prefWidth="56.19999999999999" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints maxHeight="45.4" minHeight="10.0" prefHeight="35.4" vgrow="SOMETIMES" />
+          <RowConstraints maxHeight="66.4" minHeight="10.0" prefHeight="43.4" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="65.4" minHeight="10.0" prefHeight="62.400000000000006" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Text opacity="0.55" strokeType="OUTSIDE" strokeWidth="0.0" text="The League Name you entered is already taken" wrappingWidth="253.40819931030273" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+            <Button fx:id="dismiss" alignment="CENTER" contentDisplay="CENTER" mnemonicParsing="false" text="Dismiss" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="2" />
+         </children>
+      </GridPane>
+   </content>
+</TitledPane>

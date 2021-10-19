@@ -1,0 +1,49 @@
+'''
+
+    Created on Mar 5, 2021
+
+    @author: Cameron Mathis
+    
+    This file contains all the code used to test the creation of a starting grid.
+
+'''
+
+import unittest
+import Tiles2048.create as create
+
+class CreateTest(unittest.TestCase):
+
+    # 100 create
+    #    Desired level of confidence:    boundary value analysis
+    #    Input-output Analysis
+    #        inputs:    python dictionary containing the op value and size of the grid
+    #        outputs:    python dictionary containing grid, score, integrity, and status
+    #    Happy path analysis:
+    #        output:
+    #
+    # Happy path
+    def test_create_HappyPathTest010(self):
+        userParms = {'op': 'create', 'size': '4'}
+        actualResult = create._create(userParms)
+        self.assertIsNotNone(actualResult)
+        
+    # Dev path
+    def test_create_610_ShouldCalculateScore(self):
+        userParms = {'op': 'create', 'size': '4'}
+        expectedResult = {'score': '0'}
+        actualResult = create._create(userParms)
+        self.assertEquals(expectedResult['score'], actualResult['score'])
+        
+    def test_create_620_ShouldCalculateStatus(self):
+        userParms = {'op': 'create', 'size': '4'}
+        expectedResult = {'score': '0', 'status': 'ok'}
+        actualResult = create._create(userParms)
+        self.assertEquals(expectedResult['status'], actualResult['status'])
+
+    def test_create_630_ShouldGenerateGrid(self):
+        userParms = {'op': 'create', 'size': '4'}
+        expectedResult = {'grid': '0020000020000000', 'score': '0', 'status': 'ok'}
+        actualResult = create._create(userParms)
+        passed = False
+        if (len(expectedResult['grid']) == len(actualResult['grid'])):
+        self.assertEquals(passed, True)

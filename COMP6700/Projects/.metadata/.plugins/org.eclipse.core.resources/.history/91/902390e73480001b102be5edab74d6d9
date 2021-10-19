@@ -1,0 +1,85 @@
+'''
+
+    Created on Mar 5, 2021
+
+    @author: Cameron Mathis
+    
+    This file contains all the code used to test the creation of a starting grid.
+
+'''
+
+import unittest
+import Tiles2048.create as create
+
+class CreateTest(unittest.TestCase):
+
+# 100 create
+    #    Desired level of confidence:    boundary value analysis
+    #    Input-output Analysis
+    #        inputs:    python dictionary containing the op value and size of the grid
+    #        outputs:    python dictionary containing grid, score, integrity, and status
+    #    Happy path analysis:
+    #        output:
+    #
+    # Happy path
+    def test_create_HappyPathTest010(self):
+        userParms = {'op': 'create', 'size': '4'}
+        actualResult = create._create(userParms)
+        self.assertIsNotNone(actualResult)
+        
+    # -- internal facing tests
+    # _integrate
+    #
+    #    Desired level of confidence: Boundary Value Analysis (i.e., defines "done)
+    #    Function analysis
+    #        _integrate(t, n, _f) = the area under the curve for (1+(u^2)/n)^-((n+1)/2)
+    #
+    #    Input-Output analysis
+    #        Input:    t: float; .GT. 0; mandatory; validated
+    #                  n: float; .GE. 3 and .LE. 30; mandatory; validated
+    #                  _f: float; .GE. 0, mandatory, validated
+    #        Output: float; .GE. 0.0
+    #        Side effect: None
+    #
+    #    Happy path analysis:
+    #        test 010: verify that integrate exists
+    #        test 020: nominal value of t; nominal value of n; nominal value of _f
+    #        test 030: low bound of t (t>0.0)
+    #        test 040: low bound of n (n=3)
+    #    Sad path analysis:
+    #        None
+    #
+    # Happy path
+    def test_integrate_010_ShouldVerifyIntegrateExists(self):
+        t = 1.8946
+        n = 5.0
+        actualResult = _integrate(t, n, _f)
+        self.assertIsInstance(actualResult, float)
+        
+    def test_integrate_020_ShouldCalculateNominalTNominalNNominal_F(self):
+        t = 16
+        n = 5.0
+        expectedResult = 1.317129888529234
+        actualResult = _integrate(t, n, _f)
+        self.assertAlmostEquals(expectedResult, actualResult, 6)
+        
+    def test_integrate_030_ShouldCalculateLowBoundT(self):
+        t = 0.001
+        n = 5.0
+        expectedResult = 0.000999999800000048
+        actualResult = _integrate(t, n, _f)
+        self.assertAlmostEquals(expectedResult, actualResult, 6)
+        
+    def test_integrate_040_ShouldCalculateLowBoundN(self):
+        t = 16
+        n = 3.0
+        expectedResult = 1.359627273215481
+        actualResult = _integrate(t, n, _f)
+        self.assertAlmostEquals(expectedResult, actualResult, 6)
+    # Dev path
+    #def test_integrate_610_ShouldCalculateNominalTNominalNNominal_FWithFixedNumberOfSlices(self):
+    #    t = 16
+    #    n = 5.0
+    #    expectedResult = 1.406545395
+    #    actualResult = _integrate(t, n, _f)
+    #    self.assertAlmostEquals(expectedResult, actualResult, 6)

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<TitledPane alignment="CENTER" animated="false" collapsible="false" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="276.0" prefWidth="308.0" text="Create League" textAlignment="CENTER" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1">
+   <content>
+      <GridPane>
+        <columnConstraints>
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="89.0" minWidth="10.0" prefWidth="43.0" />
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="231.00000000000003" minWidth="10.0" prefWidth="206.19998474121093" />
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="93.00000000000003" minWidth="10.0" prefWidth="39.40001525878904" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints maxHeight="28.400000000000006" minHeight="9.400000000000006" prefHeight="9.400000000000006" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="57.400000000000006" minHeight="10.0" prefHeight="37.6" vgrow="SOMETIMES" />
+          <RowConstraints maxHeight="67.39999999999999" minHeight="10.0" prefHeight="42.8" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="52.399992370605474" minHeight="8.799999999999983" prefHeight="10.799999999999983" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="66.4" minHeight="10.0" prefHeight="33.79999999999998" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="72.4" minHeight="10.0" prefHeight="39.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="72.4" minHeight="10.0" prefHeight="69.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Text opacity="0.55" strokeType="OUTSIDE" strokeWidth="0.0" text="Please enter the following information" textAlignment="CENTER" wrappingWidth="206.19531297683716" GridPane.columnIndex="1" />
+            <Text opacity="0.55" strokeType="OUTSIDE" strokeWidth="0.0" text="League Name:" textAlignment="CENTER" wrappingWidth="79.142578125" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+            <Text opacity="0.55" strokeType="OUTSIDE" strokeWidth="0.0" text="Number of Members:" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+            <TextField fx:id="leagueName" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+            <TextField fx:id="numMembers" GridPane.columnIndex="1" GridPane.rowIndex="6" />
+            <Button fx:id="enter" mnemonicParsing="false" text="Enter" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="7" />
+         </children>
+      </GridPane>
+   </content>
+</TitledPane>

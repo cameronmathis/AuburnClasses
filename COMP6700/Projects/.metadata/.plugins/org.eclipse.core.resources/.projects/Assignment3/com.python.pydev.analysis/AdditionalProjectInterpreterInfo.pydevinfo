@@ -1,0 +1,51 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\.metadata\.plugins\org.eclipse.core.resources\.projects\Assignment3\com.python.pydev.analysis\v2_indexcache
+tCurve.__init__|1612451884000000000|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment3\tCurve\__init__.py
+tCurve.prob|1612913328000000000|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment3\tCurve\prob.py
+microservice|1612451884000000000|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment3\microservice.py
+tCurve.test.microserviceTest|1612451884000000000|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment3\tCurve\test\microserviceTest.py
+tCurve.test.probTest|1612913234000000000|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment3\tCurve\test\probTest.py
+tCurve.sandbox.__init__|1612451884000000000|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment3\tCurve\sandbox\__init__.py
+tCurve.test.__init__|1612451884000000000|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment3\tCurve\test\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+11
+2=tCurve.prob
+3=C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment3\microservice.py
+4=microservice
+1=C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment3\tCurve\prob.py
+9=ProbTest.setUp
+5=C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment3\tCurve\test\probTest.py
+10=ProbTest.tearDown
+8=tCurve.test.microserviceTest
+6=tCurve.test.probTest
+11=ProbTest
+7=C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment3\tCurve\test\microserviceTest.py
+-- END DICTIONARY
+-- START TREE 1
+8
+_ca|1|_calculateConstant!1^92#5*18@
+_f|1|_f!1^100#5*18@
+_ga|1|_gamma!1^84#5*18@
+_in|1|_integrate!1^109#5*18@
+app|1|app!3^5#1*35@
+dis|1|dispatch!3^13#5*34@
+por|1|port!3^24#1*35@
+pro|3|ProbTest!5^6#7*49@prob!1^7#5*18@ProbTest!7^8#7*65@
+-- END TREE
+-- START TREE 2
+12
+err|4|errorKey!9&7^15#9*67@errorValue!9&5^13#9*51@errorValue!9&7^14#9*67@errorKey!9&5^14#9*51@
+inp|4|inputDictionary!9&5^12#9*51@inputDictionary!10&5^18#9*51@inputDictionary!9&7^13#9*67@inputDictionary!10&7^22#9*67@
+nom|6|nominalN!9&7^10#9*67@nominalTails!9&5^11#9*51@nominalTails!9&7^12#9*67@nominalT!9&5^10#9*51@nominalN!9&5^9#9*51@nominalT!9&7^11#9*67@
+pat|1|PATH!9&7^17#9*67@
+por|1|PORT!9&7^18#9*67@
+pro|1|prob!11&7^36#9*66@
+set|10|setTails!11&7^30#9*66@setT!11&5^20#9*50@setT!11&7^24#9*66@setN!11&7^27#9*66@setExtra!11&7^33#9*66@setUp!11&5^8#9*50@setN!11&5^23#9*50@setUp!11&7^9#9*66@setTails!11&5^26#9*50@setExtra!11&5^29#9*50@
+sol|2|solutionKey!9&5^15#9*51@solutionKey!9&7^16#9*67@
+str|1|string2dict!11&7^47#9*66@
+tea|2|tearDown!11&7^21#9*66@tearDown!11&5^17#9*50@
+tes|45|test100_090ShouldCalculateHighNHighT1TailEdgeCase!11&7^177#9*66@test100_040ShouldCalculateLowNLowT2TailEdgeCase!11&5^99#9*50@test100_080ShouldCalculateLowNHighT2EdgeCase!11&7^169#9*66@test100_970ShouldRaiseErrorOnNonIntegerN!11&7^263#9*66@test100_910ShouldRaiseExceptionOnMissingT!11&5^155#9*50@test_integrate_010_ShouldVerifyIntegrateExists!11&5^233#9*50@test100_100ShouldCalculateHighHighT2TailEdgeCase!11&5^141#9*50@test100_960ShouldRaiseErrorOnOutOfBoundN!11&7^254#9*66@test100_050ShouldCalculateHighNLowT1TailEdgeCase!11&7^145#9*66@test100_980ShouldRaiseErrorOnNoValueN!11&7^273#9*66@test100_070ShouldCalculateLowNHighT1EdgeCase!11&7^161#9*66@test100_030ShouldCalculateLowNLowT1TailEdgeCase!11&5^92#9*50@test100_920ShouldRaiseExceptionOnOutOfBoundsT!11&5^162#9*50@test100_010ShouldCalculateNominalCase1Tail!11&5^78#9*50@test_integrate_030_ShouldCalculateLowBoundT!11&5^246#9*50@test100_110ShouldCalculateWithDefaultTails!11&5^148#9*50@test100_030ShouldCalculateLowNLowT1TailEdgeCase!11&7^129#9*66@test100_995ShouldRaiseErrorOnNoValueTails!11&7^291#9*66@test100_120ShouldIgnoreExtraParms!11&7^201#9*66@test100_050ShouldCalculateHighNLowT1TailEdgeCase!11&5^106#9*50@test100_060ShouldCalculateHighNLowT2TailEdgeCase!11&7^153#9*66@test100_940ShouldRaiseExceptionOnInvalidTails!11&5^178#9*50@test100_070ShouldCalculateLowNHighT1EdgeCase!11&5^120#9*50@test100_910ShouldRaiseErrorOnMissingT!11&7^211#9*66@test100_080ShouldCalculateLowNHighT2EdgeCase!11&5^127#9*50@test100_040ShouldCalculateLowNLowT2TailEdgeCase!11&7^137#9*66@test100_970ShouldRaiseExceptionOnNonIntegerN!11&5^201#9*50@test100_020ShouldCalculateNominalCase2Tail!11&7^121#9*66@test100_920ShouldRaiseErrorOnOutOfBoundsT!11&7^219#9*66@test100_960ShouldRaiseExceptionOnOutOfBoundN!11&5^193#9*50@test100_060ShouldCalculateHighNLowT2TailEdgeCase!11&5^113#9*50@test100_090ShouldCalculateHighHighT1TailEdgeCase!11&5^134#9*50@test_integrate_020_ShouldCalculateNominalTNominalNNominal_F!11&5^239#9*50@test100_110ShouldCalculateWithDefaultTails!11&7^193#9*66@test100_930ShouldRaiseExceptionOnNonNumericT!11&5^170#9*50@test100_010ShouldCalculateNominalCase1Tail!11&7^113#9*66@test100_950ShouldRaiseExceptionOnMissingN!11&5^186#9*50@test100_940ShouldRaiseErrorOnInvalidTails!11&7^237#9*66@test100_990ShouldRaiseErrorOnNoValueT!11&7^282#9*66@test100_020ShouldCalculateNominalCase2Tail!11&5^85#9*50@test_integrate_040_ShouldCalculateLowBoundN!11&5^253#9*50@test100_930ShouldRaiseErrorOnNonNumericT!11&7^228#9*66@test100_950ShouldRaiseErrorOnMissingN!11&7^246#9*66@test100_100ShouldCalculateHighNHighT2TailEdgeCase!11&7^185#9*66@test100_010ShouldCalculateNominalCase1TailHttp!11&5^70#9*50@
+url|1|URL!9&7^19#9*67@
+-- END TREE

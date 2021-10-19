@@ -1,0 +1,15 @@
+MODULES_MANAGER_V3
+Tiles2048.__init__|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\__init__.py
+Tiles2048.create|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\create.py
+Tiles2048.dispatch|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\dispatch.py
+Tiles2048.echo|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\echo.py
+Tiles2048.info|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\info.py
+Tiles2048.recommend|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\recommend.py
+Tiles2048.sandbox.__init__|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\sandbox\__init__.py
+Tiles2048.shift|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\shift.py
+Tiles2048.status|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\status.py
+Tiles2048.test.__init__|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\__init__.py
+Tiles2048.test.createTest|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\createTest.py
+Tiles2048.test.infoTest|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\infoTest.py
+Tiles2048.test.shiftTest|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\shiftTest.py
+microservice|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\microservice.py

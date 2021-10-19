@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96d5b1db-4ab9-4c1c-bbbf-5a8b74eda1a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hJzumTNIhRErPUJpZ0W3cazxDQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Cameron Mathis\Documents\College\Fall 2020\Computer Networks\Projects\Project1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cameron Mathis\Documents\College\Fall 2020\Computer Networks\Projects\Project1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.UDPServer">
+    <configuration name="TCPClient" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="myFirstTCPClient" />
+      <module name="Project1" />
+      <option name="PROGRAM_PARAMETERS" value="127.0.0.1 &quot;hEllo wOrld&quot; 8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TCPServer" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="myFirstTCPServer" />
+      <module name="Project1" />
+      <option name="PROGRAM_PARAMETERS" value="8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UDPClient" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="myFirstUDPClient" />
+      <module name="Project1" />
+      <option name="PROGRAM_PARAMETERS" value="127.0.0.1 &quot;sentence test&quot; 8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UDPServer" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="myFirstUDPServer" />
+      <module name="Project1" />
+      <option name="PROGRAM_PARAMETERS" value="8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TCPServer" />
+      <item itemvalue="Application.TCPClient" />
+      <item itemvalue="Application.UDPClient" />
+      <item itemvalue="Application.UDPServer" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96d5b1db-4ab9-4c1c-bbbf-5a8b74eda1a4" name="Default Changelist" comment="" />
+      <created>1599744208069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599744208069</updated>
+      <workItem from="1599744209208" duration="11685000" />
+    </task>
+    <task id="LOCAL-00001" summary="added readme for project 1. took out scripts">
+      <created>1599755346874</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599755346874</updated>
+    </task>
+    <task id="LOCAL-00002" summary="moved project 1 README.md">
+      <created>1599755432477</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599755432477</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added readme for project 1. took out scripts" />
+    <MESSAGE value="moved project 1 README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="moved project 1 README.md" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="109" width="1092" height="931" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599755921580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="109" width="1092" height="931" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599755921580" />
+    <state x="689" y="333" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599749750787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="333" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599749750787" />
+    <state x="456" y="107" key="CommitChangelistDialog2" timestamp="1599755431515">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="456" y="107" key="CommitChangelistDialog2/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599755431515" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1599744412172">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599744412172" />
+    <state width="1877" height="377" key="GridCell.Tab.0.bottom" timestamp="1599755894247">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="377" key="GridCell.Tab.0.bottom/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599755894247" />
+    <state width="1877" height="377" key="GridCell.Tab.0.center" timestamp="1599755894247">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="377" key="GridCell.Tab.0.center/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599755894247" />
+    <state width="1877" height="377" key="GridCell.Tab.0.left" timestamp="1599755894247">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="377" key="GridCell.Tab.0.left/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599755894247" />
+    <state width="1877" height="377" key="GridCell.Tab.0.right" timestamp="1599755894247">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="377" key="GridCell.Tab.0.right/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599755894247" />
+    <state width="1877" height="377" key="GridCell.Tab.1.bottom" timestamp="1599755894071">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="377" key="GridCell.Tab.1.bottom/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599755894071" />
+    <state width="1877" height="377" key="GridCell.Tab.1.center" timestamp="1599755894070">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="377" key="GridCell.Tab.1.center/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599755894070" />
+    <state width="1877" height="377" key="GridCell.Tab.1.left" timestamp="1599755894070">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="377" key="GridCell.Tab.1.left/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599755894070" />
+    <state width="1877" height="377" key="GridCell.Tab.1.right" timestamp="1599755894071">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="377" key="GridCell.Tab.1.right/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599755894071" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1599755433518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599755433518" />
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599754140768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599754140768" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1599754131189">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599754131189" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/myFirstUDPServer.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

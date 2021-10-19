@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fe6536b-b197-459f-be3d-ce4cdf06cf12" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/sample/invalidMatchNamePopUp.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/createMatchPopUp.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/createMatchPopUp.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/joinMatchPopUp.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/joinMatchPopUp.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/viewMatchPopUp.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/viewMatchPopUp.fxml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1axmd7q32pHOsJlliOOQ0jWLF1u" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cameron Mathis\IdeaProjects\COMP3700" />
+      <recent name="C:\Users\Cameron Mathis\IdeaProjects\COMP3700\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="COMP3700" />
+      <option name="VM_PARAMETERS" value="--module-path ${PATH_TO_FX} --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fe6536b-b197-459f-be3d-ce4cdf06cf12" name="Default Changelist" comment="" />
+      <created>1587685703539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587685703539</updated>
+      <workItem from="1587744362756" duration="733000" />
+      <workItem from="1587831639926" duration="120000" />
+      <workItem from="1587835301298" duration="5258000" />
+      <workItem from="1588030165790" duration="1079000" />
+      <workItem from="1588031350754" duration="2890000" />
+      <workItem from="1588045189816" duration="2302000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added classes and methods from spectateMatch collaboration diagram">
+      <created>1587688481174</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587688481174</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fixed bug with creating accounts">
+      <created>1587838948408</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587838948408</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added workspace.xml to gitignore">
+      <created>1587839134842</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587839134842</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixed comment">
+      <created>1587842849295</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587842849295</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Implemented createMatch button">
+      <created>1588031092407</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588031092407</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Implemented joinMatch button">
+      <created>1588038078964</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588038078964</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Implemented viewMatch button">
+      <created>1588039283635</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588039283635</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added classes and methods from spectateMatch collaboration diagram" />
+    <MESSAGE value="fixed bug with creating accounts" />
+    <MESSAGE value="added workspace.xml to gitignore" />
+    <MESSAGE value="fixed comment" />
+    <MESSAGE value="Implemented createMatch button" />
+    <MESSAGE value="Implemented joinMatch button" />
+    <MESSAGE value="Implemented viewMatch button" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented viewMatch button" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2800" y="98" key="#Project_Structure" timestamp="1587685929647">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2800" y="98" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587685929647" />
+    <state x="331" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587844937476">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="331" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1587844937476" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587831736494" />
+    <state x="2663" y="414" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587686032889">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2663" y="414" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587686032889" />
+    <state x="2610" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587685961107">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2610" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587685961107" />
+    <state x="504" y="107" key="CommitChangelistDialog2" timestamp="1587842847482">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="504" y="107" key="CommitChangelistDialog2/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587842847482" />
+    <state x="74" y="73" width="1389" height="679" key="DiffContextDialog" timestamp="1587844937806">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="74" y="73" width="1389" height="679" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1587844937806" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587843204952" />
+    <state x="656" y="235" key="FileChooserDialogImpl" timestamp="1587844933986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="656" y="235" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587844933986" />
+    <state width="1493" height="140" key="GridCell.Tab.0.bottom" timestamp="1587860805237">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="140" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587860805237" />
+    <state width="1877" height="441" key="GridCell.Tab.0.bottom/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587844282366" />
+    <state width="1493" height="140" key="GridCell.Tab.0.center" timestamp="1587860805237">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="140" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587860805237" />
+    <state width="1877" height="441" key="GridCell.Tab.0.center/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587844282366" />
+    <state width="1493" height="140" key="GridCell.Tab.0.left" timestamp="1587860805237">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="140" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587860805237" />
+    <state width="1877" height="441" key="GridCell.Tab.0.left/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587844282366" />
+    <state width="1493" height="140" key="GridCell.Tab.0.right" timestamp="1587860805237">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="140" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587860805237" />
+    <state width="1877" height="441" key="GridCell.Tab.0.right/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587844282366" />
+    <state width="1493" height="65" key="GridCell.Tab.1.bottom" timestamp="1587860183562">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="65" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587860183562" />
+    <state width="1877" height="441" key="GridCell.Tab.1.bottom/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587844298857" />
+    <state width="1493" height="65" key="GridCell.Tab.1.center" timestamp="1587860183561">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="65" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587860183561" />
+    <state width="1877" height="441" key="GridCell.Tab.1.center/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587844298857" />
+    <state width="1493" height="65" key="GridCell.Tab.1.left" timestamp="1587860183561">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="65" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587860183561" />
+    <state width="1877" height="441" key="GridCell.Tab.1.left/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587844298857" />
+    <state width="1493" height="65" key="GridCell.Tab.1.right" timestamp="1587860183562">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="65" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587860183562" />
+    <state width="1877" height="441" key="GridCell.Tab.1.right/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587844298857" />
+    <state x="498" y="0" key="SettingsEditor" timestamp="1587844886003">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587844886003" />
+    <state x="702" y="73" key="SettingsEditor/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587843152905" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1587842850561">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587688487983" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587842850561" />
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587842879931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587842879931" />
+  </component>
+</project>

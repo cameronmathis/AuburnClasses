@@ -1,0 +1,76 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\.metadata\.plugins\org.eclipse.core.resources\.projects\Assignment4\com.python.pydev.analysis\v2_indexcache
+Tiles2048.shift|1618938273472775500|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\shift.py
+Tiles2048.echo|1614745738000000000|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\echo.py
+Tiles2048.info|1614966750000000000|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\info.py
+Tiles2048.test.shiftTest|1618938273460771600|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\shiftTest.py
+microservice|1614745738000000000|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\microservice.py
+Tiles2048.test.__init__|1614745738000000000|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\__init__.py
+Tiles2048.test.infoTest|1614966848000000000|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\infoTest.py
+Tiles2048.status|1614745738000000000|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\status.py
+Tiles2048.create|1615231444000000000|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\create.py
+Tiles2048.test.createTest|1615228762000000000|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\createTest.py
+Tiles2048.dispatch|1614745738000000000|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\dispatch.py
+Tiles2048.recommend|1614745738000000000|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\recommend.py
+Tiles2048.sandbox.__init__|1614745738000000000|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\sandbox\__init__.py
+Tiles2048.__init__|1614745738000000000|C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+24
+6=Tiles2048.shift
+23=CreateTest
+8=Tiles2048.echo
+10=Tiles2048.info
+20=Tiles2048.test.shiftTest
+15=C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\microservice.py
+16=microservice
+3=C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\create.py
+22=Tiles2048.test.infoTest
+14=Tiles2048.status
+11=C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\recommend.py
+4=Tiles2048.create
+19=C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\shiftTest.py
+18=Tiles2048.test.createTest
+13=C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\status.py
+7=C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\echo.py
+24=InfoTest
+2=Tiles2048.dispatch
+17=C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\createTest.py
+12=Tiles2048.recommend
+21=C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\infoTest.py
+1=C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\dispatch.py
+5=C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\shift.py
+9=C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\info.py
+-- END DICTIONARY
+-- START TREE 1
+24
+OP|1|OP!1^12#1*19@
+_ca|5|_calculateStatus!3^49#5*34@_calculateScore!3^40#5*34@_calculateIntegrity!3^43#5*34@_calculateStatus!5^351#5*50@_calculateIntegrity!5^199#5*50@
+_co|1|_compressGrid!5^275#5*50@
+_cr|1|_create!3^14#5*34@
+_di|1|_dispatch!1^22#5*18@
+_ec|1|_echo!7^1#5*66@
+_ge|1|_generateGrid!3^22#5*34@
+_in|1|_info!9^11#5*82@
+_is|4|_isStringAnInt!5^210#5*50@_isScoreValid!5^175#5*50@_isDictionaryValid!5^82#5*50@_isShiftPossible!5^144#5*50@
+_ma|2|_mapGridToMatrix!5^97#5*50@_mapMatrixToString!5^337#5*50@
+_me|1|_mergeGrid!5^292#5*50@
+_re|2|_reverseGrid!5^308#5*50@_recommend!11^1#5*98@
+_sh|2|_shift!5^22#5*50@_shiftGrid!5^222#5*50@
+_st|1|_status!13^1#5*114@
+_tr|1|_transposeGrid!5^323#5*50@
+app|1|app!15^6#1*131@
+cre|2|CreateTest!17^14#7*145@CreateTest!19^14#7*161@
+err|3|ERROR03!1^10#1*19@ERROR01!1^8#1*19@ERROR02!1^9#1*19@
+inf|2|InfoTest!21^15#7*177@info!15^28#5*130@
+ops|1|OPS!1^20#1*19@
+por|1|port!15^33#1*131@
+sco|1|score!5^15#1*51@
+ser|1|server!15^16#5*130@
+sta|1|STATUS!1^11#1*19@
+-- END TREE
+-- START TREE 2
+1
+tes|27|test_shift_610_ShouldMapGridToMatrix!23&19^104#9*162@test_shift_920_ShouldValidateGrid!23&19^127#9*162@test_shift_980_ShouldValidateDictionary!23&19^163#9*162@test_shift_620_ShouldMatrixToString!23&19^112#9*162@test100_010_ShouldReturnMyUserName!24&21^17#9*178@test_shift_950_ShouldValidateScore!23&19^145#9*162@test_shift_200_ShouldTestNominalGrid!23&19^83#9*162@test_shift_160_ShouldShiftGridRight!23&19^59#9*162@test_shift_220_ShouldCheckIfShiftIsPossible!23&19^96#9*162@test_shift_140_ShouldShiftGridUp!23&19^47#9*162@test_shift_120_ShouldShiftGridDown!23&19^33#9*162@test_shift_910_ShouldValidateNoGrid!23&19^121#9*162@test_shift_180_ShouldSetLoseStatus!23&19^71#9*162@test_create_120_ShouldCalculateScore!23&17^39#9*146@test_shift_110_ShouldCalculateIntegrity!23&19^27#9*162@test_create_110_ShouldGenerateGrid!23&17^25#9*146@test_shift_130_ShouldShiftGridDownDefault!23&19^40#9*162@test_shift_210_ShouldShiftGridDownOmittedDirection!23&19^89#9*162@test_shift_190_ShouldCalculateScore!23&19^77#9*162@test_create_140_ShouldCalculateStatus!23&17^50#9*146@test_shift_940_ShouldValidateGrid!23&19^139#9*162@test_shift_960_ShouldValidateIntegrity!23&19^151#9*162@test_shift_150_ShouldShiftGridLeft!23&19^53#9*162@test_create_130_ShouldCalculateIntegrity!23&17^45#9*146@test_shift_170_ShouldSetWinStatus!23&19^65#9*162@test_shift_970_ShouldCheckIfShiftIsPossible!23&19^157#9*162@test_shift_930_ShouldValidateGrid!23&19^133#9*162@
+-- END TREE

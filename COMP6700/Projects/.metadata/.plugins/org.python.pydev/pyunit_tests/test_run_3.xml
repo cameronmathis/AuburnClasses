@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+    <summary errors="0" failures="0" finished="true" name="Test Run: 30" tests="22" total_time="Finished in: 0.00 secs."/>
+    <test location="C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\shiftTest.py" status="ok" test="CreateTest.test_shift_110_ShouldCalculateIntegrity" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\shiftTest.py" status="ok" test="CreateTest.test_shift_120_ShouldShiftGridDown" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\shiftTest.py" status="ok" test="CreateTest.test_shift_130_ShouldShiftGridDownDefault" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\shiftTest.py" status="ok" test="CreateTest.test_shift_140_ShouldShiftGridUp" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\shiftTest.py" status="ok" test="CreateTest.test_shift_150_ShouldShiftGridLeft" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\shiftTest.py" status="ok" test="CreateTest.test_shift_160_ShouldShiftGridRight" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\shiftTest.py" status="ok" test="CreateTest.test_shift_170_ShouldSetWinStatus" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\shiftTest.py" status="ok" test="CreateTest.test_shift_180_ShouldSetLoseStatus" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\shiftTest.py" status="ok" test="CreateTest.test_shift_190_ShouldCalculateScore" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\shiftTest.py" status="ok" test="CreateTest.test_shift_200_ShouldTestNominalGrid" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\shiftTest.py" status="ok" test="CreateTest.test_shift_210_ShouldShiftGridDownOmittedDirection" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\shiftTest.py" status="ok" test="CreateTest.test_shift_220_ShouldCheckIfShiftIsPossible" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\shiftTest.py" status="ok" test="CreateTest.test_shift_610_ShouldMapGridToMatrix" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\shiftTest.py" status="ok" test="CreateTest.test_shift_620_ShouldMatrixToString" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\shiftTest.py" status="ok" test="CreateTest.test_shift_910_ShouldValidateNoGrid" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\shiftTest.py" status="ok" test="CreateTest.test_shift_920_ShouldValidateGrid" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\shiftTest.py" status="ok" test="CreateTest.test_shift_930_ShouldValidateGrid" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\shiftTest.py" status="ok" test="CreateTest.test_shift_940_ShouldValidateGrid" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\shiftTest.py" status="ok" test="CreateTest.test_shift_950_ShouldValidateScore" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\shiftTest.py" status="ok" test="CreateTest.test_shift_960_ShouldValidateIntegrity" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\shiftTest.py" status="ok" test="CreateTest.test_shift_970_ShouldCheckIfShiftIsPossible" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="C:\Users\Cameron\Documents\College\Spring 2021\Software Process\Projects\Assignment4\Tiles2048\test\shiftTest.py" status="ok" test="CreateTest.test_shift_980_ShouldValidateDictionary" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <launch mode="run">
+        <launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="Assignment4 shiftTest.py"/>
+]]></launch_memento>
+    </launch>
+</pydev-testsuite>
